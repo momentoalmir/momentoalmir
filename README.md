@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume as PDF on Google Drive](https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing)
 
-- ⚡ Fun fact **when I worked on Diolinux, my nickname was kewer**
+- ⚡ Fun fact **I'm also called Avlye**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
