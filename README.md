@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **galmirpr@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing](https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing)
+- 📄 Know about my experiences [Resume as PDF on Google Drive](https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing)
 
 - ⚡ Fun fact **And I worked on Diolinux, my nickname was kewer**
 
