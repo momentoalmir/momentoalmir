@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gabriel Almir</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galmirpr&label=Profile%20views&color=0e75b6&style=flat" alt="galmirpr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=momentoalmir&label=Profile%20views&color=0e75b6&style=flat" alt="momentoalmir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/galmirpr" target="blank"><img src="https://img.shields.io/twitter/follow/galmirpr?logo=twitter&style=for-the-badge" alt="galmirpr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/momentoalmir" target="blank"><img src="https://img.shields.io/twitter/follow/momentoalmir?logo=twitter&style=for-the-badge" alt="momentoalmir" /></a> </p>
 
 - 🔭 I’m currently working on [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
 - 💬 Ask me about **JavaScript and Python**
 
-- 📫 How to reach me **galmirpr@outlook.com**
+- 📫 How to reach me **momentoalmir@gmail.com**
 
 - 📄 Know about my experiences [Resume as PDF on Google Drive](https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing)
 
