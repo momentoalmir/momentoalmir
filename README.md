@@ -1,34 +1,35 @@
-<h1 align="center">Hi 👋, I'm Gabriel Almir</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momentoalmir&label=Profile%20views&color=0e75b6&style=flat" alt="momentoalmir" /> </p>
+## ☕ Gabriel Almir (@momentoalmir)
+Apaixonado por tecnologia desde criança, sempre busquei contribuir em novos projetos, aprender novas tecnologias e conversar sobre diferentes áreas do conhecimento.
 
-<p align="left"> <a href="https://twitter.com/momentoalmir" target="blank"><img src="https://img.shields.io/twitter/follow/momentoalmir?logo=twitter&style=for-the-badge" alt="momentoalmir" /></a> </p>
+Aos 16 anos, fui Desenvolvedor Web Front-End (SEO, HTML, CSS e JavaScript) durante 3 anos no projeto Diolinux, que me ensinaram fundamentos importantes de comunicação, trabalho em equipe, autonomia, e foi essencial para me mostrar como tecnologia e informação impactam na vida das pessoas.
 
-- 🔭 I’m currently working on [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+## 🔗 Contatos
 
-- 💬 Ask me about **JavaScript and Python**
+[![portfolio](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/momentoalmir)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momentoalmir/)
+[![twitter](https://img.shields.io/badge/@momentoalmir-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/momentoalmir)
 
-- 📫 How to reach me **momentoalmir@gmail.com**
 
-- 📄 Know about my experiences [Resume as PDF on Google Drive](https://drive.google.com/file/d/1PGRNVyTFvm-iOkk9g9i9KAZsY2lqTX9Y/view?usp=sharing)
+## 💼 Experiência
 
-- ⚡ Fun fact **I'm also called Avlye**
+### Diolinux - Desenvolvedor Front End
+*mai de 2013 - ago de 2016 · 3 anos 4 meses | Marau, Rio Grande do Sul, Brazil*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/momentoalmir" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="momentoalmir"  /></a>
-<a href="https://linkedin.com/in/momentoalmir" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="momentoalmir" /></a>
-<a href="https://fb.com/momentoalmir" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="momentoalmir"></a>
-<a href="https://instagram.com/momentoalmir" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="momentoalmir" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+[![diolinux](https://i.ibb.co/ZG9jYVg/Webp-net-resizeimage-1.png)](https://diolinux.com.br/)
+
+Fui colaborador __Desenvolvedor Web Front-End (HTML, CSS, JS, jQuery)__ para os principais serviços do projeto Diolinux, responsável pelo aprimoramento de sistemas legados e otimização técnica
+para motores de busca (SEO). Aprendi fundamentos importantes de comunicação,
+trabalho em equipe, autonomia, e foi essencial para me mostrar como tecnologia e
+informação impactam na vida das pessoas.
+
+__Competências: JavaScript · HTML · CSS · Git · Blogger · JQuery__
+
+## 📚 Formação
+
+
+### Senac Brasil - Ensino Técnico, Tecnologia da Informação
+*ago de 2014 - jun de 2016*
+
+Graduado em Técnico de Informática, com a carga horária de 1200 horas de aula, com as principais características e tecnologias relevantes no setor. Em destaque: Microsoft Office, HTML, CSS, JavaScript, WordPress, C#, Microsoft SQL Server, Administração de Redes e Manutenção de Hardware. Foi realizado um projeto prático com cliente de Software de Gestão de Recursos Farmacêuticos.
