@@ -29,4 +29,4 @@ __Competências: JavaScript · HTML · CSS · Git · Blogger · JQuery__
 ### Senac Brasil - Ensino Técnico, Tecnologia da Informação
 *ago de 2014 - jun de 2016*
 
-Graduado em Técnico de Informática, com a carga horária de 1200 horas de aula, com as principais características e tecnologias relevantes no setor. Em destaque: Microsoft Office, HTML, CSS, JavaScript, WordPress, C#, Microsoft SQL Server, Administração de Redes e Manutenção de Hardware. Foi realizado um projeto prático com cliente de Software de Gestão de Recursos Farmacêuticos.
+Graduado em Técnico de Informática, com a carga horária de 1200 horas de aula, com as principais características e tecnologias relevantes no setor. __Em destaque: Microsoft Office, HTML, CSS, JavaScript, WordPress, C#, Microsoft SQL Server, Administração de Redes e Manutenção de Hardware.__ Foi realizado um projeto prático com cliente de Software de Gestão de Recursos Farmacêuticos.
