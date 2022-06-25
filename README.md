@@ -16,9 +16,6 @@ Aos 16 anos, fui Desenvolvedor Web Front-End (SEO, HTML, CSS e JavaScript) duran
 ### Diolinux - Desenvolvedor Front End
 *mai de 2013 - ago de 2016 · 3 anos 4 meses | Marau, Rio Grande do Sul, Brazil*
 
-
-[![diolinux](https://i.ibb.co/ZG9jYVg/Webp-net-resizeimage-1.png)](https://diolinux.com.br/)
-
 Fui colaborador __Desenvolvedor Web Front-End (HTML, CSS, JS, jQuery)__ para os principais serviços do projeto Diolinux, responsável pelo aprimoramento de sistemas legados e otimização técnica
 para motores de busca (SEO). Aprendi fundamentos importantes de comunicação,
 trabalho em equipe, autonomia, e foi essencial para me mostrar como tecnologia e
